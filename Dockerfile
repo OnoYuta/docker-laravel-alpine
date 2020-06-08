@@ -1,5 +1,5 @@
 FROM php:7.4.4-fpm-alpine
-LABEL maintainer "creamNote"
+LABEL maintainer "ono"
 
 ENV TZ Asia/Tokyo
 ENV COMPOSER_ALLOW_SUPERUSER 1
